@@ -1,3 +1,4 @@
+//WAP and do the process of factorial and prime number using abstract method//
 import java.util.Scanner;
 
 abstract class fact {
