@@ -1,3 +1,4 @@
+//wap and do the transaction of banking system
 import java.util.Scanner;
 
 class bank_demo{
