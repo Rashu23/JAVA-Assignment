@@ -1,3 +1,4 @@
+//Hotel Menu Item System //
 import java.util.Scanner;
 
 public class menu {
