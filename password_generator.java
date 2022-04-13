@@ -1,5 +1,5 @@
+//generate a random password
 package password;
-
 import java.util.Random;
 
 public class password_generator {
