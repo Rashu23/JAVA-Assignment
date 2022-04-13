@@ -1,3 +1,5 @@
+// demostrate the program in exception handing by using buffer method and doing the process of division.
+
 package excepton_prog;
 
 import java.io.BufferedReader;
